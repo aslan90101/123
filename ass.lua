@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Undebolted/FTAP/refs/heads/main/OrionLib.lua')))()
 local Window = OrionLib:MakeWindow({Name = "BHop Script", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 --Main Tab
